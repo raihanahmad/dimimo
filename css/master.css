@@ -1,0 +1,284 @@
+/*****************************TAG SECTION*****************************/
+/******************Header******************/
+a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: white;
+}
+
+/******************Main******************/
+body {
+  margin: 0;
+  background-color: #EDBED2;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+/*****************************CLASS SECTION*****************************/
+/******************Header******************/
+.logo {
+  width: 15rem;
+}
+
+.header-container {
+  margin-top: 10px;
+  background-color: #EDBED2;
+}
+
+.link-bar {
+  list-style-type: none;
+  float: right;
+  position: relative;
+  bottom: 6rem;
+  right: 20rem;
+  margin: auto;
+  padding: 0;
+}
+
+.link-bar-list {
+  display: inline;
+  padding-right: 3rem;
+}
+
+/*********************Main*********************/
+/******************LANDING PAGE******************/
+.landing-page {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  background-color: #EDBED2;
+  margin-bottom: 5rem;
+}
+
+.heading-paragraph {
+  padding: 3rem 4rem 2rem 5rem;
+  display: inline-block;
+}
+
+.font-page-heading {
+  font-size: 2.5rem;
+  color: white;
+}
+
+.font-page-paragraph {
+  color: white;
+}
+
+.start-button {
+  padding: .7rem;
+  background-color: #6CBFAF;
+  font-size: 1.5rem;
+}
+
+.font-page-image {
+  position: absolute;
+  left: 40rem;
+  bottom: 5rem;
+}
+
+.product-image {
+  width: 37rem;
+  box-shadow: 5px 5px 5px grey;
+}
+
+/******************SECOND PAGE******************/
+.shape1 {
+  width: 100%;
+}
+
+.second-section {
+  padding-top: 10rem;
+  background-color: #F3F6FD;
+  position: relative;
+  bottom: .5rem;
+}
+
+.second-page-image-box {
+  display: inline-block;
+  margin-left: 5rem;
+  margin-bottom: 7rem;
+}
+
+.developing-image {
+  width: 37rem;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.second-section-heading-paragraph-box {
+  display: inline-block;
+  position: relative;
+  left: 15rem;
+  bottom: 20rem;
+}
+
+.using-technology-box {
+  display: inline-block;
+  position: relative;
+  bottom: 5rem;
+  right: 5.5rem;
+}
+
+.using-technology-header-box {
+  display: inline-block;
+  position: relative;
+  bottom: 4.8rem;
+  margin-right: 2.5rem;
+}
+
+.using-technology-list-box {
+  display: inline-block;
+}
+
+.using-technology-header {
+  font-size: 2.5rem;
+}
+
+.technology-list {
+  font-size: 2rem;
+}
+
+.second-section-button {
+  padding: .7rem;
+  background-color: #6CBFAF;
+  font-size: 1.5rem;
+  position: relative;
+  left: 57.3rem;
+  bottom: 8.5rem;
+}
+
+.shape2 {
+  width: 100%;
+  position: relative;
+  top: 1rem;
+}
+
+/******************HIRD PAGE******************/
+.design-section {
+  background-color: #F4D288;
+  padding-bottom: 8rem;
+  padding-top: 5rem;
+  padding-left: 8rem;
+}
+
+.design-section-header-paragraph-box {
+  display: inline-block;
+}
+
+.design-section-header {
+  color: white;
+}
+
+.design-section-paragraph {
+  color: white;
+}
+
+.design-image-box {
+  float: right;
+  margin-right: 5rem;
+  margin-top: 2rem;
+}
+
+.design-image {
+  width: 37rem;
+  box-shadow: 5px 5px 5px gray;
+}
+
+.designing-header-list-box {
+  width: 30rem;
+  margin-bottom: 1.5rem;
+}
+
+.designing-header-box {
+  display: inline-block;
+}
+
+.designing-header {
+  position: relative;
+  bottom: 2.2rem;
+  margin-right: 2.5rem;
+  color: white;
+}
+
+.designing-tool-list-box {
+  display: inline-block;
+}
+
+.designing-tool-list {
+  font-size: 2rem;
+  color: white;
+}
+
+.design-section-button {
+  font-size: 1.5rem;
+  padding: .7rem;
+  background-color: #6CBFAF;
+}
+
+/******************Fourth PAGE*****************/
+.shape3 {
+  width: 100%;
+}
+
+.fourth-section-about-box {
+  background-color: #F3F6FD;
+}
+
+.about-logo-paragraph-box {
+  text-align: center;
+  margin-top: 6rem;
+}
+
+.about-heading {
+  font-weight: normal;
+  line-height: 3.5rem;
+  margin-bottom: 3rem;
+}
+
+.about-logo {
+  width: 15rem;
+}
+
+.about-us-box {
+  text-align: center;
+  height: 35rem;
+  margin: 0;
+}
+
+.raihan-about-box{
+  display: inline-block;
+  margin-right: 7rem;
+  position: relative;
+  top: 2rem;
+}
+.raihan-about {
+  width: 15rem;
+}
+
+.nasim-about-box{
+  display: inline-block;
+  margin-right: 7rem;
+}
+.nasim-about {
+  width: 15rem;
+}
+
+.polash-about-box{
+  display: inline-block;
+  position: relative;
+  top: 2rem;
+}
+.polash-about {
+  width: 15rem;
+}
+
+/******************FOOTER SECTION*****************/
+.footer-image {
+  width: 100%;
+}
+/*****************************ID SECTION*****************************/
