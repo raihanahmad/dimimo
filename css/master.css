@@ -51,13 +51,12 @@ p {
 /******************LANDING PAGE******************/
 .landing-page {
   padding-left: 3rem;
-  padding-right: 3rem;
   background-color: #EDBED2;
   margin-bottom: 5rem;
 }
 
 .heading-paragraph {
-  padding: 3rem 4rem 2rem 5rem;
+  padding: 3rem 0 2rem 5rem;
   display: inline-block;
 }
 
@@ -71,20 +70,22 @@ p {
 }
 
 .start-button {
-  padding: .7rem;
+  padding: .7rem 1rem;
   background-color: #6CBFAF;
   font-size: 1.5rem;
+  border-radius: 30px;
 }
 
 .font-page-image {
-  position: absolute;
-  left: 40rem;
-  bottom: 5rem;
+  display: inline-block;
 }
 
 .product-image {
   width: 37rem;
   box-shadow: 5px 5px 5px grey;
+  position: absolute;
+  right: 5rem;
+  top: 11.5rem;
 }
 
 /******************SECOND PAGE******************/
@@ -144,12 +145,13 @@ p {
 }
 
 .second-section-button {
-  padding: .7rem;
+  padding: .7rem 1rem;
   background-color: #6CBFAF;
   font-size: 1.5rem;
   position: relative;
   left: 57.3rem;
   bottom: 8.5rem;
+  border-radius: 30px;
 }
 
 .shape2 {
@@ -216,8 +218,9 @@ p {
 
 .design-section-button {
   font-size: 1.5rem;
-  padding: .7rem;
+  padding: .7rem 1rem;
   background-color: #6CBFAF;
+  border-radius: 30px;
 }
 
 /******************Fourth PAGE*****************/
